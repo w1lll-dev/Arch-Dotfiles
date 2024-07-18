@@ -1,0 +1,25 @@
+window {
+  font-size: 16px;
+  font-family: "JetBrains Mono";
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  border: 2px solid #75a173;
+  border-radius: 10px;
+}
+
+#outer-box {
+  margin: 5px;
+}
+
+#entry {
+  padding: 0.65em;
+}
+
+#entry:selected {
+  background-color: #3c523c;
+}
+
+image {
+  margin-left: 0.25em;
+  margin-right: 0.5em;
+}
